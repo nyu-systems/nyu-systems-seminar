@@ -1,6 +1,7 @@
+
 # NYU Systems Reading Group
 
-This term the seminar takes place every  at Noon - 1PM. Unless otherwise indicated the meeting takes place is in 60-5th Room 446. 
+This term the seminar takes place every Monday from **Noon to 1PM**. Unless otherwise indicated the meeting takes place is in 60-5th **Room 446.** 
 
 ## Topics
 The seminar discusses a broad range of recent systems papers. Papers are selected from typical systems related conferences, including, but not limited to, the following:
@@ -20,12 +21,12 @@ Storage: [FAST](https://dblp.uni-trier.de/db/conf/fast/)
 ## Schedule
 
 Each reading group presenter should:
-- Send email reminder to systems-reading-group@nyu.edu with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
+- Send an email reminder to the nyu-systems-reading-group@nyu.edu with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
 
 
 | Date | Presenter | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
-| February 10, 2020 |   |   |   |
+| February 10, 2020 |  Kickoff |  - |  - |
 | February 17, 2020 |   |   |   |
 | February 24, 2020 |   |   |   |
 | March 2, 2020 |   |   |   |
