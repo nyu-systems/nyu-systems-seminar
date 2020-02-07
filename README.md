@@ -1,7 +1,7 @@
 
 # NYU Systems Reading Group
 
-This term the seminar takes place every Monday from **Noon to 1PM**. Unless otherwise indicated the meeting takes place is in 60-5th **Room 446.** 
+This term the seminar takes place every Monday from **Noon to 1PM**. Unless otherwise indicated the meeting takes place in 60 5th Avenue **Room 446.** 
 
 ## Topics
 The seminar discusses a broad range of recent systems papers. Papers are selected from typical systems related conferences, including, but not limited to, the following:
