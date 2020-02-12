@@ -27,7 +27,7 @@ Each reading group presenter should:
 | Date | Presenter | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
 | February 10, 2020 |  Kickoff |  - |  - |
-| February 17, 2020 |   |   |   |
+| February 17, 2020 | Fabian  |  [SplitFS: Reducing Software Overhead in File Systems for Persistent Memory](https://dl.acm.org/doi/10.1145/3341301.3359631)   | [SOSP19](https://sosp19.rcs.uwaterloo.ca/program.html)  |
 | February 24, 2020 |   |   |   |
 | March 2, 2020 |   |   |   |
 | March 9, 2020 |   |   |   |
