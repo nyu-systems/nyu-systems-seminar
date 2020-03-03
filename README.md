@@ -30,16 +30,14 @@ Each reading group presenter should:
 | February 17, 2020 | Fabian  |  [SplitFS: Reducing Software Overhead in File Systems for Persistent Memory](https://dl.acm.org/doi/10.1145/3341301.3359631)   | [SOSP19](https://sosp19.rcs.uwaterloo.ca/program.html)  |
 | February 24, 2020 | Panda  |  [Helen: Maliciously Secure Coopetitive Learning for LinearModels](https://arxiv.org/pdf/1907.07212.pdf) | [S&P19](https://www.ieee-security.org/TC/SP2019/)  |
 | March 2, 2020 |  John | [Learning to Reconstruct: Statistical Learning Theory and Encrypted Database Attacks](https://eprint.iacr.org/2019/011.pdf)  | [S&P19](https://www.ieee-security.org/TC/SP2019/)  |
-| March 9, 2020 |   |   |   |
-| March 16, 2020 |   |   |   |
-| March 23, 2020 |   |   |   |
-| March 30, 2020 |   |   |   |
-| April 6, 2020 |   |   |   |
-| April 13, 2020 |   |   |   |
-| April 20, 2020 |   |   |   |
-| April 27, 2020 |   |   |   |
-| May 4, 2020 |   |   |   |
-| May 11, 2020 |   |   |   |
-| May 18, 2020 |   |   |   |
-| May 25, 2020 |   |   |   |
-
+| March 9, 2020 | Jinkun |   |   |
+| March 16, 2020 | Spring Break |   |   |
+| March 23, 2020 | Xiangyu  |   |   |
+| March 30, 2020 |  Anirudh |   |   |
+| April 6, 2020 |  Project Review |   |   |
+| April 13, 2020 | Jinyang  |   |   |
+| April 20, 2020 |  Taegyun |   |   |
+| April 27, 2020 |  Eric |   |   |
+| May 4, 2020 |  Changgeng |   |   |
+| May 11, 2020 | Anqi  |   |   |
+| May 18, 2020 | Tao  |   |   |
