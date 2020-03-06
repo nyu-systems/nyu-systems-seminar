@@ -30,7 +30,7 @@ Each reading group presenter should:
 | February 17, 2020 | Fabian  |  [SplitFS: Reducing Software Overhead in File Systems for Persistent Memory](https://dl.acm.org/doi/10.1145/3341301.3359631)   | [SOSP19](https://sosp19.rcs.uwaterloo.ca/program.html)  |
 | February 24, 2020 | Panda  |  [Helen: Maliciously Secure Coopetitive Learning for LinearModels](https://arxiv.org/pdf/1907.07212.pdf) | [S&P19](https://www.ieee-security.org/TC/SP2019/)  |
 | March 2, 2020 |  John | [Learning to Reconstruct: Statistical Learning Theory and Encrypted Database Attacks](https://eprint.iacr.org/2019/011.pdf)  | [S&P19](https://www.ieee-security.org/TC/SP2019/)  |
-| March 9, 2020 | Jinkun |   |   |
+| March 9, 2020 | Jinkun | [Pretend Synchrony - Synchronous Verification of Asynchronous Distributed Programs](https://goto.ucsd.edu/~gleissen/papers/pretend-synchrony.pdf)  | [POPL19](https://popl19.sigplan.org/) |
 | March 16, 2020 | Spring Break |   |   |
 | March 23, 2020 | Xiangyu  |   |   |
 | March 30, 2020 |  Anirudh |   |   |
