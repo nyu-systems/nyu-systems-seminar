@@ -31,13 +31,13 @@ Each reading group presenter should:
 | February 24, 2020 | Panda  |  [Helen: Maliciously Secure Coopetitive Learning for LinearModels](https://arxiv.org/pdf/1907.07212.pdf) | [S&P19](https://www.ieee-security.org/TC/SP2019/)  |
 | March 2, 2020 |  John | [Learning to Reconstruct: Statistical Learning Theory and Encrypted Database Attacks](https://eprint.iacr.org/2019/011.pdf)  | [S&P19](https://www.ieee-security.org/TC/SP2019/)  |
 | March 9, 2020 | Jinkun | [Pretend Synchrony - Synchronous Verification of Asynchronous Distributed Programs](https://goto.ucsd.edu/~gleissen/papers/pretend-synchrony.pdf)  | [POPL19](https://popl19.sigplan.org/) |
-| March 16, 2020 | Spring Break |   |   |
-| March 23, 2020 | Xiangyu  |   |   |
-| March 30, 2020 |  Anirudh |   |   |
-| April 6, 2020 |  Project Review |   |   |
-| April 13, 2020 | Jinyang  |   |   |
-| April 20, 2020 |  Taegyun |   |   |
-| April 27, 2020 |  Eric |   |   |
-| May 4, 2020 |  Changgeng |   |   |
-| May 11, 2020 | Anqi  |   |   |
-| May 18, 2020 | Tao  |   |   |
+| March 16, 2020 | Spring Break |  Corona | Virus  |
+| March 23, 2020 | Xiangyu  |  Corona |  Virus |
+| March 30, 2020 |  Anirudh |  Corona | Virus  |
+| April 6, 2020 |  Project Review |  Corona | Virus  |
+| April 13, 2020 | Jinyang  |  Corona | Virus  |
+| April 20, 2020 |  Taegyun |  Corona | Virus  |
+| April 27, 2020 |  Eric |  Corona | Virus  |
+| May 4, 2020 |  Changgeng |  Corona | Virus  |
+| May 11, 2020 | Anqi  |  Corona | Virus  |
+| May 18, 2020 | Tao |  Corona | Virus  |
