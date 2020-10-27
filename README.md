@@ -1,7 +1,7 @@
 
 # NYU Systems Reading Group
 
-This term the seminar takes place every Monday from **Noon to 1PM**. Unless otherwise indicated the meeting takes place in 60 5th Avenue **Room 446.** 
+This term the seminar takes place every Tuesday from **11AM to 12PM**. Unless otherwise indicated the meeting takes place online.
 
 ## Topics
 The seminar discusses a broad range of recent systems papers. Papers are selected from typical systems related conferences, including, but not limited to, the following:
@@ -23,6 +23,23 @@ Storage: [FAST](https://dblp.uni-trier.de/db/conf/fast/)
 Each reading group presenter should:
 - Send an email reminder to the nyu-systems-reading-group@nyu.edu with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
 
+### Fall 2020
+
+| Date | Presenter | Paper Title and Link | Conference |
+| ------------ | ------------ | ------------ | ------------ |
+| October 27, 2020 |  John | [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.ics.uci.edu/~aburtsev/doc/redleaf-osdi20.pdf "RedLeaf: Isolation and Communication in a Safe Operating System") |  [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
+| November 3, 2020| -  |  - |  - |
+| November 10, 2020| - |  - |  - |
+| November 17, 2020| - |  - |  - |
+| November 24, 2020| - |  - |  - |
+| December 1, 2020| - |  - |  - |
+| December 8, 2020| - |  - |  - |
+| December 15, 2020| - |  - |  - |
+| December 22, 2020| - |  - |  - |
+
+
+
+### Spring 2020
 
 | Date | Presenter | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
