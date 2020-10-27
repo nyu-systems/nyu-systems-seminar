@@ -28,14 +28,14 @@ Each reading group presenter should:
 | Date | Presenter | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
 | October 27, 2020 |  John | [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.ics.uci.edu/~aburtsev/doc/redleaf-osdi20.pdf "RedLeaf: Isolation and Communication in a Safe Operating System") |  [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
-| November 3, 2020| -  |  - |  - |
-| November 10, 2020| - |  - |  - |
-| November 17, 2020| - |  - |  - |
-| November 24, 2020| - |  - |  - |
-| December 1, 2020| - |  - |  - |
-| December 8, 2020| - |  - |  - |
-| December 15, 2020| - |  - |  - |
-| December 22, 2020| - |  - |  - |
+| November 3, 2020| Xiangyu  |  - |  - |
+| November 10, 2020| Jessica |  - |  - |
+| November 17, 2020| Project Review |  - |  - |
+| November 24, 2020| Ding Ding |  - |  - |
+| December 1, 2020| Taegyun |  - |  - |
+| December 8, 2020| Eric |  - |  - |
+| December 15, 2020| Changgeng |  - |  - |
+| December 22, 2020| Anqi |  - |  - |
 
 
 
