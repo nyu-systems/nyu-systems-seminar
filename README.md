@@ -29,7 +29,7 @@ Each reading group presenter should:
 | ------------ | ------------ | ------------ | ------------ |
 | October 27, 2020 |  John | [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.ics.uci.edu/~aburtsev/doc/redleaf-osdi20.pdf "RedLeaf: Isolation and Communication in a Safe Operating System") |  [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
 | November 3, 2020| Xiangyu  | [Swift: Delay is Simple and Effective for Congestion Control in the Datacenter](https://dl.acm.org/doi/pdf/10.1145/3387514.3406591) | [SIGCOMM2020](https://conferences.sigcomm.org/sigcomm/2020/) |
-| November 10, 2020| Jessica |  Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-side Evasion |  https://geneva.cs.umd.edu/papers/come-as-you-are.pdf | [SIGCOMM2020](https://conferences.sigcomm.org/sigcomm/2020/)
+| November 10, 2020| Jessica |  [Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-side Evasion] (https://geneva.cs.umd.edu/papers/come-as-you-are.pdf) | [SIGCOMM2020](https://conferences.sigcomm.org/sigcomm/2020/)
 | November 17, 2020| Project Review |  - |  - |
 | November 24, 2020| Ding Ding |  - |  - |
 | December 1, 2020| Taegyun |  - |  - |
