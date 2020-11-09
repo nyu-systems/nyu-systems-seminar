@@ -1,6 +1,11 @@
 
 # NYU Systems Reading Group
 
+- [Topics](#topics)
+- [Schedule](#schedule)
+  * [Fall 2020](#fall-2020)
+  * [Spring 2020](#spring-2020)
+
 This term the seminar takes place every Tuesday from **11AM to 12PM**. Unless otherwise indicated the meeting takes place online.
 
 ## Topics
@@ -28,8 +33,8 @@ Each reading group presenter should:
 | Date | Presenter | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
 | October 27, 2020 |  John | [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.ics.uci.edu/~aburtsev/doc/redleaf-osdi20.pdf "RedLeaf: Isolation and Communication in a Safe Operating System") |  [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
-| November 3, 2020| Xiangyu  | [Swift: Delay is Simple and Effective for Congestion Control in the Datacenter](https://dl.acm.org/doi/pdf/10.1145/3387514.3406591) | [SIGCOMM2020](https://conferences.sigcomm.org/sigcomm/2020/) |
-| November 10, 2020| Jessica  | [Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-side Evasion](https://geneva.cs.umd.edu/papers/come-as-you-are.pdf) | [SIGCOMM2020](https://conferences.sigcomm.org/sigcomm/2020/) |
+| November 3, 2020| Xiangyu  | [Swift: Delay is Simple and Effective for Congestion Control in the Datacenter](https://dl.acm.org/doi/pdf/10.1145/3387514.3406591) | [SIGCOMM20](https://conferences.sigcomm.org/sigcomm/2020/) |
+| November 10, 2020| Jessica  | [Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-side Evasion](https://geneva.cs.umd.edu/papers/come-as-you-are.pdf) | [SIGCOMM20](https://conferences.sigcomm.org/sigcomm/2020/) |
 | November 17, 2020| Project Review |  - |  - |
 | November 24, 2020| Ding Ding |  - |  - |
 | December 1, 2020| Taegyun |  - |  - |
