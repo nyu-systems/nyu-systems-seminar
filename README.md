@@ -37,7 +37,7 @@ Each reading group presenter should:
 | November 10, 2020| Jessica  | [Come as You Are: Helping Unmodified Clients Bypass Censorship with Server-side Evasion](https://geneva.cs.umd.edu/papers/come-as-you-are.pdf) | [SIGCOMM20](https://conferences.sigcomm.org/sigcomm/2020/) |
 | November 17, 2020| Ding Ding |  [Microsecond Consensus for Microsecond Applications](https://www.usenix.org/system/files/osdi20-aguilera.pdf) |  [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
 | November 24, 2020| Thanksgiving |  - |  - |
-| December 1, 2020| Taegyun |  - |  - |
+| December 1, 2020| Taegyun | [Blockene: A High-throughput Blockchain Over Mobile Device](https://www.usenix.org/system/files/osdi20-satija.pdf) | [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
 | December 8, 2020| Eric |  - |  - |
 | December 15, 2020| Changgeng |  - |  - |
 | December 22, 2020| Anqi |  - |  - |
