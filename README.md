@@ -38,7 +38,7 @@ Each reading group presenter should:
 | November 17, 2020| Ding Ding |  [Microsecond Consensus for Microsecond Applications](https://www.usenix.org/system/files/osdi20-aguilera.pdf) |  [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
 | November 24, 2020| Thanksgiving |  - |  - |
 | December 1, 2020| Taegyun | [Blockene: A High-throughput Blockchain Over Mobile Device](https://www.usenix.org/system/files/osdi20-satija.pdf) | [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
-| December 8, 2020| Eric |  - |  - |
+| December 8, 2020| Eric | [A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](https://www.usenix.org/system/files/osdi20-jiang.pdf) | [OSDI20](https://www.usenix.org/conference/osdi20 "OSDI20") |
 | December 15, 2020| Changgeng |  - |  - |
 | December 22, 2020| Anqi |  - |  - |
 
