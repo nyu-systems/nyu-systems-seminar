@@ -32,7 +32,7 @@ Each reading group presenter should:
 
 | Date | Presenter | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
-| March 9, 2021 |  John | TBD |  TBD |
+| March 9, 2021 |  John | [HovercRaft: achieving scalability and fault-tolerance for microsecond-scale datacenter services](https://dl.acm.org/doi/10.1145/3342195.3387545) |  [EuroSys’20](https://www.eurosys2020.org/) |
 | March 16, 2021 |  TBD | TBD |  TBD |
 | March 23, 2021 |  TBD | TBD |  TBD |
 | March 30, 2021 |  TBD | TBD |  TBD |
