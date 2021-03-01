@@ -28,6 +28,23 @@ Storage: [FAST](https://dblp.uni-trier.de/db/conf/fast/)
 Each reading group presenter should:
 - Send an email reminder to the nyu-systems-reading-group@nyu.edu with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
 
+### Spring 2021
+
+| Date | Presenter | Paper Title and Link | Conference |
+| ------------ | ------------ | ------------ | ------------ |
+| March 9, 2021 |  John | TBD |  TBD |
+| March 16, 2021 |  TBD | TBD |  TBD |
+| March 23, 2021 |  TBD | TBD |  TBD |
+| March 30, 2021 |  TBD | TBD |  TBD |
+| April 6, 2021 |  TBD | TBD |  TBD |
+| April 13, 2021 |  TBD | TBD |  TBD |
+| April 20, 2021 |  TBD | TBD |  TBD |
+| April 27, 2021 |  TBD | TBD |  TBD |
+| May 4, 2021 |  TBD | TBD |  TBD |
+| May 11, 2021 |  TBD | TBD |  TBD |
+| May 18, 2021 |  TBD | TBD |  TBD |
+
+
 ### Fall 2020
 
 | Date | Presenter | Paper Title and Link | Conference |
