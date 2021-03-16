@@ -38,11 +38,11 @@ Each reading group presenter should:
 | March 30, 2021 |  Fabian | TBD |  TBD |
 | April 6, 2021 |  Jinkun | TBD |  TBD |
 | April 13, 2021 |  Changgeng | TBD |  TBD |
-| April 20, 2021 |  TBD | TBD |  TBD |
-| April 27, 2021 |  TBD | TBD |  TBD |
-| May 4, 2021 |  TBD | TBD |  TBD |
-| May 11, 2021 |  TBD | TBD |  TBD |
-| May 18, 2021 |  TBD | TBD |  TBD |
+| April 20, 2021 |  Eric  | TBD |  TBD |
+| April 27, 2021 |  Jessica | TBD |  TBD |
+| May 4, 2021 |  Xiangyu | TBD |  TBD |
+| May 11, 2021 |  Anqi | TBD |  TBD |
+| May 18, 2021 |  Taegyun | TBD |  TBD |
 
 
 ### Fall 2020
