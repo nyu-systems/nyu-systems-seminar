@@ -32,10 +32,10 @@ Each reading group presenter should:
 
 | Date | Presenter | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
-| March 9, 2021 |  John | [HovercRaft: achieving scalability and fault-tolerance for microsecond-scale datacenter services](https://dl.acm.org/doi/10.1145/3342195.3387545) |  [EuroSys’20](https://www.eurosys2020.org/) |
+| March 9, 2021 |  John | [HovercRaft: achieving scalability and fault-tolerance for microsecond-scale datacenter services](https://dl.acm.org/doi/10.1145/3342195.3387545) |  [EuroSys'20](https://www.eurosys2020.org/) |
 | March 16, 2021 |  Tao | [Architectural Considerations for a New Generation of Protocols ](https://groups.csail.mit.edu/ana/Publications/PubPDFs/Architectural%20Considerations%20for%20a%20New%20Generation%20of%20Protocols.pdf) | [CCR'90](https://www.sigcomm.org/publications/computer-communication-review) |
-| March 23, 2021 |  Lingfan | [Cortex: A Compiler for Recursive Deep Learning Models](https://arxiv.org/abs/2011.01383) |  [MLSys21](https://mlsys.org/) |
-| March 30, 2021 |  Fabian | TBD |  TBD |
+| March 23, 2021 |  Lingfan | [Cortex: A Compiler for Recursive Deep Learning Models](https://arxiv.org/abs/2011.01383) |  [MLSys'21](https://mlsys.org/) |
+| March 30, 2021 |  Fabian | [Noria: dynamic, partially-stateful data-flow for high-performance web applications](https://www.usenix.org/conference/osdi18/presentation/gjengset) |  [OSDI'18](https://www.usenix.org/conference/osdi18) |
 | April 6, 2021 |  Jinkun | TBD |  TBD |
 | April 13, 2021 |  Changgeng | TBD |  TBD |
 | April 20, 2021 |  Eric  | TBD |  TBD |
