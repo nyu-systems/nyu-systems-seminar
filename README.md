@@ -36,7 +36,7 @@ Each reading group presenter should:
 | March 16, 2021 |  Tao | [Architectural Considerations for a New Generation of Protocols ](https://groups.csail.mit.edu/ana/Publications/PubPDFs/Architectural%20Considerations%20for%20a%20New%20Generation%20of%20Protocols.pdf) | [CCR'90](https://www.sigcomm.org/publications/computer-communication-review) |
 | March 23, 2021 |  Lingfan | [Cortex: A Compiler for Recursive Deep Learning Models](https://arxiv.org/abs/2011.01383) |  [MLSys'21](https://mlsys.org/) |
 | March 30, 2021 |  Fabian | [Noria: dynamic, partially-stateful data-flow for high-performance web applications](https://www.usenix.org/conference/osdi18/presentation/gjengset) |  [OSDI'18](https://www.usenix.org/conference/osdi18) |
-| April 6, 2021 |  Jinkun | TBD |  TBD |
+| April 6, 2021 |  Jinkun | [Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control](https://syslab.cs.washington.edu/papers/eris-sosp17.pdf) |  [SOSP17](https://www.sigops.org/s/conferences/sosp/2017/) |
 | April 13, 2021 |  Changgeng | TBD |  TBD |
 | April 20, 2021 |  Eric  | TBD |  TBD |
 | April 27, 2021 |  Jessica | TBD |  TBD |
