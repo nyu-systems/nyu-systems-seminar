@@ -37,7 +37,7 @@ Each reading group presenter should:
 | March 23, 2021 |  Lingfan | [Cortex: A Compiler for Recursive Deep Learning Models](https://arxiv.org/abs/2011.01383) |  [MLSys'21](https://mlsys.org/) |
 | March 30, 2021 |  Fabian | [Noria: dynamic, partially-stateful data-flow for high-performance web applications](https://www.usenix.org/conference/osdi18/presentation/gjengset) |  [OSDI'18](https://www.usenix.org/conference/osdi18) |
 | April 6, 2021 |  Jinkun | [Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control](https://syslab.cs.washington.edu/papers/eris-sosp17.pdf) |  [SOSP17](https://www.sigops.org/s/conferences/sosp/2017/) |
-| April 13, 2021 |  Changgeng | TBD |  TBD |
+| April 13, 2021 |  Changgeng | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson) |  [ATC'13](https://www.usenix.org/conference/atc13) |
 | April 20, 2021 |  Eric  | TBD |  TBD |
 | April 27, 2021 |  Jessica | TBD |  TBD |
 | May 4, 2021 |  Xiangyu | TBD |  TBD |
