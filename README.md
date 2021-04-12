@@ -40,7 +40,7 @@ Each reading group presenter should:
 | April 13, 2021 |  Changgeng | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson) |  [ATC'13](https://www.usenix.org/conference/atc13) |
 | April 20, 2021 |  Eric  | TBD |  TBD |
 | April 27, 2021 |  Jessica | TBD |  TBD |
-| May 4, 2021 |  Xiangyu | TBD |  TBD |
+| May 4, 2021 |  Xiangyu | [Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs](https://dl.acm.org/doi/pdf/10.1145/3387514.3405879) | [SIGCOMM'20](https://conferences.sigcomm.org/sigcomm/2020/) |
 | May 11, 2021 |  Anqi | TBD |  TBD |
 | May 18, 2021 |  Taegyun | TBD |  TBD |
 
