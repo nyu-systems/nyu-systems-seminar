@@ -39,7 +39,7 @@ Each reading group presenter should:
 | April 6, 2021 |  Jinkun | [Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control](https://syslab.cs.washington.edu/papers/eris-sosp17.pdf) |  [SOSP17](https://www.sigops.org/s/conferences/sosp/2017/) |
 | April 13, 2021 |  Changgeng | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson) |  [ATC'13](https://www.usenix.org/conference/atc13) |
 | April 20, 2021 |  Eric  | [On the Use of ML for Blackbox System Performance Prediction](https://www.usenix.org/conference/nsdi21/presentation/fu) | [NSDI21](https://www.usenix.org/conference/nsdi21) |
-| April 27, 2021 |  Jessica | TBD |  TBD |
+| April 27, 2021 |  Jessica | [Tesseract: Distributed, General Graph Pattern Mining on Evolving Graphs](https://binds.ch/wp-content/uploads/2021/04/tesseract2021.pdf) |  [EuroSys 2021](https://2021.eurosys.org/) |
 | May 4, 2021 |  Xiangyu | [Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs](https://dl.acm.org/doi/pdf/10.1145/3387514.3405879) | [SIGCOMM'20](https://conferences.sigcomm.org/sigcomm/2020/) |
 | May 11, 2021 |  Anqi | TBD |  TBD |
 | May 18, 2021 |  Taegyun | TBD |  TBD |
