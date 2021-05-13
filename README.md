@@ -42,7 +42,7 @@ Each reading group presenter should:
 | April 27, 2021 |  Jessica | [Tesseract: Distributed, General Graph Pattern Mining on Evolving Graphs](https://binds.ch/wp-content/uploads/2021/04/tesseract2021.pdf) |  [EuroSys 2021](https://2021.eurosys.org/) |
 | May 4, 2021 |  Xiangyu | [Lyra: A Cross-Platform Language and Compiler for Data Plane Programming on Heterogeneous ASICs](https://dl.acm.org/doi/pdf/10.1145/3387514.3405879) | [SIGCOMM'20](https://conferences.sigcomm.org/sigcomm/2020/) |
 | May 11, 2021 |  Anqi | TBD |  TBD |
-| May 18, 2021 |  Taegyun | TBD |  TBD |
+| May 18, 2021 |  Taegyun | [Ethanos: Efficient Bootstrapping for Full Nodes on Account-based Blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231) |  [EuroSys 2021](https://2021.eurosys.org/) |
 
 
 ### Fall 2020
