@@ -3,7 +3,7 @@
 
 - [Topics](#topics)
 - [Schedule](#schedule)
-  * [Spring 2023](#spring-2023)
+  * [Spring 2023](#spring-2023-cloud-scale-databases)
   * [Spring 2021](#spring-2021)
   * [Fall 2020](#fall-2020)
   * [Spring 2020](#spring-2020)
