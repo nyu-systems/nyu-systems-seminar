@@ -3,10 +3,12 @@
 
 - [Topics](#topics)
 - [Schedule](#schedule)
+  * [Spring 2023](#spring-2023)
+  * [Spring 2021](#spring-2021)
   * [Fall 2020](#fall-2020)
   * [Spring 2020](#spring-2020)
 
-This term the seminar takes place every Tuesday from **11AM to 12PM**. Unless otherwise indicated the meeting takes place online.
+This term the seminar takes place every Wednesday from **12:30AM to 1:30PM**. The meeting takes place in person.
 
 ## Topics
 The seminar discusses a broad range of recent systems papers. Papers are selected from typical systems related conferences, including, but not limited to, the following:
@@ -23,14 +25,37 @@ Distributed Systems: [PODC](https://dblp.uni-trier.de/db/conf/podc/), [ICDCS]( h
 
 Storage: [FAST](https://dblp.uni-trier.de/db/conf/fast/)
 
+Some academic terms may have a specfic theme. All the chosen papers are related to that theme.
+
 ## Schedule
 
 Each reading group presenter should:
 - Send an email reminder to the nyu-systems-reading-group@nyu.edu with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
 
+### Spring 2023 (Cloud Scale Databases)
+
+Design and implementation of cloud scale database has an impact on how many of us build and optimize our systems: for those working in the lower-layers (e.g., on offloads, etc.) this is a common application that might influence designs; for those working on tracing, these systems are often what is used to store and query things, and has an impact on what is stored and why; and in general many of these have intricate algorithms (since they are inherently distributed). Reasoning about what properties they provide, and why, is a fun puzzle.
+
+| Date | Discussion Lead | Paper Title and Link | Conference |
+| ------------ | ------------ | ------------ | ------------ |
+| Feb 22, 2023 | Panda | [Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/) | [OSDI'10](https://www.usenix.org/conference/osdi10) |
+| Mar 1, 2023 | Jinyang | | |
+| Mar 8, 2023 | - | | |
+| Mar 15, 2023 | - | | |
+| Mar 22, 2023 | - | | |
+| Mar 29, 2023 | - | | |
+| Apr 5, 2023 | -  | | |
+| Apr 12, 2023 | - | | |
+| Apr 19, 2023 | - | | |
+| Apr 26, 2023 | - | | |
+| May 03, 2023 | - | | |
+| May 10, 2023 | - | | |
+| May 17, 2023 | - | | |
+| May 24, 2023 | - | | |
+
 ### Spring 2021
 
-| Date | Presenter | Paper Title and Link | Conference |
+| Date | Discussion Lead | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
 | March 9, 2021 |  John | [HovercRaft: achieving scalability and fault-tolerance for microsecond-scale datacenter services](https://dl.acm.org/doi/10.1145/3342195.3387545) |  [EuroSys'20](https://www.eurosys2020.org/) |
 | March 16, 2021 |  Tao | [Architectural Considerations for a New Generation of Protocols ](https://groups.csail.mit.edu/ana/Publications/PubPDFs/Architectural%20Considerations%20for%20a%20New%20Generation%20of%20Protocols.pdf) | [CCR'90](https://www.sigcomm.org/publications/computer-communication-review) |
@@ -47,7 +72,7 @@ Each reading group presenter should:
 
 ### Fall 2020
 
-| Date | Presenter | Paper Title and Link | Conference |
+| Date | Discussion Lead | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
 | October 27, 2020 |  John | [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.ics.uci.edu/~aburtsev/doc/redleaf-osdi20.pdf "RedLeaf: Isolation and Communication in a Safe Operating System") |  [OSDI'20](https://www.usenix.org/conference/osdi20 "OSDI20") |
 | November 3, 2020| Xiangyu  | [Swift: Delay is Simple and Effective for Congestion Control in the Datacenter](https://dl.acm.org/doi/pdf/10.1145/3387514.3406591) | [SIGCOMM'20](https://conferences.sigcomm.org/sigcomm/2020/) |
@@ -63,7 +88,7 @@ Each reading group presenter should:
 
 ### Spring 2020
 
-| Date | Presenter | Paper Title and Link | Conference |
+| Date | Discussion Lead | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
 | February 10, 2020 |  Kickoff |  - |  - |
 | February 17, 2020 | Fabian  |  [SplitFS: Reducing Software Overhead in File Systems for Persistent Memory](https://dl.acm.org/doi/10.1145/3341301.3359631)   | [SOSP'19](https://sosp19.rcs.uwaterloo.ca/program.html)  |
