@@ -40,7 +40,7 @@ Design and implementation of cloud scale database has an impact on how many of u
 | ------------ | ------------ | ------------ | ------------ |
 | Feb 22, 2023 | Panda | [Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/) / [Dremel: Interactive Analysis of Web-Scale Datasets](https://research.google/pubs/pub36632/) | [OSDI'10](https://www.usenix.org/conference/osdi10) / [VLDB'10](https://research.google/pubs/pub36632/) |
 | Mar 1, 2023 | Jinyang | [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://dl.acm.org/doi/10.1145/3035918.3056101) / [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741) | [SIGMOD'17](https://sigmod2017.org/) / [SIGMOD'16](https://sigmod2016.org/) |
-| Mar 8, 2023 | - | | |
+| Mar 8, 2023 | Panda | [Photon: A Fast Query Engine for Lakehouse Systems](https://dl.acm.org/doi/10.1145/3514221.3526054) / [Rethinking SIMD Vectorization for In-Memory Databases](https://dl.acm.org/doi/10.1145/2723372.2747645) | [SIGMOD'22](https://2022.sigmod.org/) / [SIGMOD'15](https://sigmod2015.org/) |
 | Mar 15, 2023 | - | | |
 | Mar 22, 2023 | - | | |
 | Mar 29, 2023 | - | | |
