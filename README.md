@@ -41,11 +41,11 @@ Design and implementation of cloud scale database has an impact on how many of u
 | Feb 22, 2023 | Panda | [Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/) / [Dremel: Interactive Analysis of Web-Scale Datasets](https://research.google/pubs/pub36632/) | [OSDI'10](https://www.usenix.org/conference/osdi10) / [VLDB'10](https://research.google/pubs/pub36632/) |
 | Mar 1, 2023 | Jinyang | [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://dl.acm.org/doi/10.1145/3035918.3056101) / [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741) | [SIGMOD'17](https://sigmod2017.org/) / [SIGMOD'16](https://sigmod2016.org/) |
 | Mar 8, 2023 | Panda | [Photon: A Fast Query Engine for Lakehouse Systems](https://dl.acm.org/doi/10.1145/3514221.3526054) / [Rethinking SIMD Vectorization for In-Memory Databases](https://dl.acm.org/doi/10.1145/2723372.2747645) | [SIGMOD'22](https://2022.sigmod.org/) / [SIGMOD'15](https://sigmod2015.org/) |
-| Mar 15, 2023 | - | | |
-| Mar 22, 2023 | - | | |
-| Mar 29, 2023 | - | | |
-| Apr 5, 2023 | -  | | |
-| Apr 12, 2023 | - | | |
+| Mar 15, 2023 | Reading Week | Reading Week | Reading Week |
+| Mar 23, 2023 |Panda | [Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3](https://dl.acm.org/doi/10.1145/3477132.3483540) / [MODIST: Transparent Model Checking of Unmodified Distributed Systems](https://dl.acm.org/doi/10.5555/1558977.1558992) | [SOSP'21](https://sosp2021.mpi-sws.org/) / [NSDI'09](https://www.usenix.org/legacy/events/nsdi09/) |
+| Mar 29, 2023 | Elaine | [Ironfleet: Proving Safety and Liveness of Practical Distributed Systems](https://cacm.acm.org/magazines/2017/7/218876-ironfleet/abstract) / [Ivy: Safety Verification by Interactive Generalization](https://dl.acm.org/doi/10.1145/2908080.2908118) | [ACM COMMUNICATIONS](https://cacm.acm.org/) / [PLDI'16](https://pldi16.sigplan.org/) |
+| Apr 5, 2023 | Zhangan | [D3S: Debugging Deployed Distributed Systems](https://www.usenix.org/conference/nsdi-08/d3s-debugging-deployed-distributed-systems) / [CrystalBall: Predicting and Preventing Inconsistencies in Deployed Distributed Systems](https://www.usenix.org/conference/nsdi-09/crystalball-predicting-and-preventing-inconsistencies-deployed-distributed) | [NSDI'08](https://www.usenix.org/legacy/events/nsdi08/) / [NSDI'09](https://www.usenix.org/legacy/events/nsdi09/) |
+| Apr 12, 2023 | Haseeb | [Raksha: a flexible information flow architecture for software security](https://dl.acm.org/doi/abs/10.1145/1250662.1250722) / [Securing Distributed Systems with Information Flow Control ](https://www.usenix.org/conference/nsdi-08/securing-distributed-systems-information-flow-control) | [ISCA'07](https://cseweb.ucsd.edu/conferences/isca2007/) / [NSDI'08](https://www.usenix.org/legacy/events/nsdi08/) |
 | Apr 19, 2023 | - | | |
 | Apr 26, 2023 | - | | |
 | May 03, 2023 | - | | |
