@@ -30,7 +30,7 @@ Some academic terms may have a specfic theme. All the chosen papers are related 
 ## Schedule
 
 Each reading group presenter should:
-- Send an email reminder to the nyu-systems-reading-group@nyu.edu with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
+- Send an email reminder to the reading group email with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
 
 ### Spring 2023 (Cloud Scale Databases)
 
@@ -46,9 +46,10 @@ Design and implementation of cloud scale database has an impact on how many of u
 | Mar 29, 2023 | Elaine | [Ironfleet: Proving Safety and Liveness of Practical Distributed Systems](https://cacm.acm.org/magazines/2017/7/218876-ironfleet/abstract) / [Ivy: Safety Verification by Interactive Generalization](https://dl.acm.org/doi/10.1145/2908080.2908118) | [ACM COMMUNICATIONS](https://cacm.acm.org/) / [PLDI'16](https://pldi16.sigplan.org/) |
 | Apr 5, 2023 | Zhangan | [D3S: Debugging Deployed Distributed Systems](https://www.usenix.org/conference/nsdi-08/d3s-debugging-deployed-distributed-systems) / [CrystalBall: Predicting and Preventing Inconsistencies in Deployed Distributed Systems](https://www.usenix.org/conference/nsdi-09/crystalball-predicting-and-preventing-inconsistencies-deployed-distributed) | [NSDI'08](https://www.usenix.org/legacy/events/nsdi08/) / [NSDI'09](https://www.usenix.org/legacy/events/nsdi09/) |
 | Apr 12, 2023 | Haseeb | [Raksha: a flexible information flow architecture for software security](https://dl.acm.org/doi/abs/10.1145/1250662.1250722) / [Securing Distributed Systems with Information Flow Control ](https://www.usenix.org/conference/nsdi-08/securing-distributed-systems-information-flow-control) | [ISCA'07](https://cseweb.ucsd.edu/conferences/isca2007/) / [NSDI'08](https://www.usenix.org/legacy/events/nsdi08/) |
-| Apr 19, 2023 | - | | |
-| Apr 26, 2023 | - | | |
-| May 03, 2023 | - | | |
+| Apr 19, 2023 | Jinkun | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) | [SC'21](https://sc21.supercomputing.org/)|
+| Apr 26, 2023 | Anqi | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://dl.acm.org/doi/10.5555/3433701.3433727) | [SC'20](https://sc20.supercomputing.org/) |
+| May 03, 2023 | | [Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs
+s](https://www.usenix.org/conference/nsdi23/presentation/thorpe) | [NSDI'23](https://www.usenix.org/conference/nsdi23) |
 | May 10, 2023 | - | | |
 | May 17, 2023 | - | | |
 | May 24, 2023 | - | | |
