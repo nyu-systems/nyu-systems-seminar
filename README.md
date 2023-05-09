@@ -48,10 +48,7 @@ Design and implementation of cloud scale database has an impact on how many of u
 | Apr 12, 2023 | Haseeb | [Raksha: a flexible information flow architecture for software security](https://dl.acm.org/doi/abs/10.1145/1250662.1250722) / [Securing Distributed Systems with Information Flow Control ](https://www.usenix.org/conference/nsdi-08/securing-distributed-systems-information-flow-control) | [ISCA'07](https://cseweb.ucsd.edu/conferences/isca2007/) / [NSDI'08](https://www.usenix.org/legacy/events/nsdi08/) |
 | Apr 19, 2023 | Jinkun | [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://dl.acm.org/doi/10.1145/3458817.3476209) | [SC'21](https://sc21.supercomputing.org/)|
 | Apr 26, 2023 | Anqi | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://dl.acm.org/doi/10.5555/3433701.3433727) | [SC'20](https://sc20.supercomputing.org/) |
-| May 03, 2023 | - | [Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNss](https://www.usenix.org/conference/nsdi23/presentation/thorpe) | [NSDI'23](https://www.usenix.org/conference/nsdi23) |
-| May 10, 2023 | - | | |
-| May 17, 2023 | - | | |
-| May 24, 2023 | - | | |
+| May 03, 2023 | Jinkun | [Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNss](https://www.usenix.org/conference/nsdi23/presentation/thorpe) | [NSDI'23](https://www.usenix.org/conference/nsdi23) |
 
 ### Spring 2021
 
