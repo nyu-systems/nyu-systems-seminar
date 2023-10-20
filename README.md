@@ -32,6 +32,22 @@ Some academic terms may have a specfic theme. All the chosen papers are related 
 Each reading group presenter should:
 - Send an email reminder to the reading group email with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
 
+### Fall 2023 (System Challenges Posed By LLMs)
+| Date | Discussion Lead | Paper Title and Link | Conference |
+| ------------ | ------------ | ------------ | ------------ |
+| September 25, 2023 |  Jinkun |[Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) / [Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization](https://www.usenix.org/conference/osdi22/presentation/unger) | [ArXiv](https://arxiv.org/) / [OSDI'22](https://www.usenix.org/conference/osdi22) |
+| October 2, 2023| Lingfan| [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/conference/osdi22/presentation/yu) / [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/abs/10.1145/3600006.3613165) |  [OSDI'22](https://www.usenix.org/conference/osdi22) / [SOSP'23](https://sosp2023.mpi-sws.org/)  |
+| October 9, 2023| Reading Week | Reading Week | Reading Week |
+| October 16, 2023| Jinkun| [AStitch: enabling a new multi-dimensional optimization space for memory-intensive ML training and inference on modern SIMT architectures](https://dl.acm.org/doi/10.1145/3503222.3507723) / [Welder: Scheduling Deep Learning Memory Access via Tile-graph](https://www.usenix.org/conference/osdi23/presentation/shi) | [ASPLOS'22](https://asplos-conference.org/asplos2022/index.html) /  [OSDI'23](https://www.usenix.org/conference/osdi23) / |
+| October 23, 2023| Haitian | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) / [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | [NeurIPS'22](https://proceedings.neurips.cc/paper_files/paper/2022) / [ArXiv](https://arxiv.org/) |
+| October 30, 2023| | | |
+| November 6, 2023| | | |
+| November 13, 2023| | | |
+| November 20, 2023| | | |
+| November 27, 2023| | | |
+| December 4, 2023| | | |
+| December 11, 2023| | | |
+
 ### Spring 2023 (Cloud Scale Databases)
 
 Design and implementation of cloud scale database has an impact on how many of us build and optimize our systems: for those working in the lower-layers (e.g., on offloads, etc.) this is a common application that might influence designs; for those working on tracing, these systems are often what is used to store and query things, and has an impact on what is stored and why; and in general many of these have intricate algorithms (since they are inherently distributed). Reasoning about what properties they provide, and why, is a fun puzzle.
