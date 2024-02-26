@@ -3,6 +3,7 @@
 
 - [Topics](#topics)
 - [Schedule](#schedule)
+  * [Spring 2024](#spring-2024)
   * [Fall 2023](#fall-2023-system-challenges-posed-by-llms)
   * [Spring 2023](#spring-2023-cloud-scale-databases)
   * [Spring 2021](#spring-2021)
