@@ -3,6 +3,7 @@
 
 - [Topics](#topics)
 - [Schedule](#schedule)
+  * [Fall 2023](#fall-2023-system-challenges-posed-by-llms)
   * [Spring 2023](#spring-2023-cloud-scale-databases)
   * [Spring 2021](#spring-2021)
   * [Fall 2020](#fall-2020)
@@ -32,6 +33,11 @@ Some academic terms may have a specfic theme. All the chosen papers are related 
 Each reading group presenter should:
 - Send an email reminder to the reading group email with paper details and update the URL in the repository a few days prior to the group meeting (at least two days before).
 
+### Spring 2024
+| Date | Discussion Lead | Paper Title and Link | Conference |
+| ------------ | ------------ | ------------ | ------------ |
+| March 1, 2024| Daniel | [Practical Byzantine Fault Tolerant (PBFT)](https://dl.acm.org/doi/10.5555/296806.296824) / [HQ replication: a hybrid quorum protocol for byzantine fault tolerance](https://dl.acm.org/doi/abs/10.5555/1298455.1298473)| [OSDI'99](https://www.usenix.org/legacy/events/osdi99/) / [OSDI'06](https://www.usenix.org/legacy/event/osdi06/tech/) |
+
 ### Fall 2023 (System Challenges Posed By LLMs)
 | Date | Discussion Lead | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
@@ -40,13 +46,6 @@ Each reading group presenter should:
 | October 9, 2023| Reading Week | Reading Week | Reading Week |
 | October 16, 2023| Jinkun| [AStitch: enabling a new multi-dimensional optimization space for memory-intensive ML training and inference on modern SIMT architectures](https://dl.acm.org/doi/10.1145/3503222.3507723) / [Welder: Scheduling Deep Learning Memory Access via Tile-graph](https://www.usenix.org/conference/osdi23/presentation/shi) | [ASPLOS'22](https://asplos-conference.org/asplos2022/index.html) /  [OSDI'23](https://www.usenix.org/conference/osdi23) / |
 | October 23, 2023| Haitian | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) / [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | [NeurIPS'22](https://proceedings.neurips.cc/paper_files/paper/2022) / [ArXiv](https://arxiv.org/) |
-| October 30, 2023| | | |
-| November 6, 2023| | | |
-| November 13, 2023| | | |
-| November 20, 2023| | | |
-| November 27, 2023| | | |
-| December 4, 2023| | | |
-| December 11, 2023| | | |
 
 ### Spring 2023 (Cloud Scale Databases)
 
